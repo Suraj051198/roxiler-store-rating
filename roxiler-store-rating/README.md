@@ -29,6 +29,26 @@ This application allows users to submit ratings for stores registered on the pla
   - Store management
   - Data persistence using localStorage
 
+ 
+## Screenshots
+
+### Admin Dashboard
+
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+### User Signup
+
+![User Signup](./screenshots/user-signup.png)
+
+### User Login
+
+![User Login](./screenshots/user-login.png)
+
+### Change Password
+
+![Change Password](./screenshots/change-password.png)
+
+
 ## Installation
 
 1. Clone the repository
