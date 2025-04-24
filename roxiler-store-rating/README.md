@@ -32,21 +32,29 @@ This application allows users to submit ratings for stores registered on the pla
  
 ## Screenshots
 
-### Admin Dashboard
-
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-
 ### User Signup
-
-![User Signup](./screenshots/user-signup.png)
+![image](https://github.com/user-attachments/assets/b535b242-fef8-4ffe-a6dc-d66d19e9cda5)
 
 ### User Login
+![image](https://github.com/user-attachments/assets/73625e82-8cc0-4d9e-8fc4-cd12dedabe95)
 
-![User Login](./screenshots/user-login.png)
+### User Dashboard
+![image](https://github.com/user-attachments/assets/896f85a5-fec0-42c0-b65c-f90de7b1590e)
 
-### Change Password
+### User Stores
+![image](https://github.com/user-attachments/assets/85703b0f-87a9-473b-9e9a-93d27b8d2c0b)
 
-![Change Password](./screenshots/change-password.png)
+### Admin Dashboard
+![image](https://github.com/user-attachments/assets/b175d447-afa1-4023-af5d-6594964986b3)
+
+### Admin Users Management
+![image](https://github.com/user-attachments/assets/53ba7a28-6945-4cb0-8fb9-7b4a3a7cf935)
+
+### Admin in Add New Store
+![image](https://github.com/user-attachments/assets/60fb45b5-1bbe-4a13-bfaa-9884ddf46382)
+
+### About Store Rating System
+![image](https://github.com/user-attachments/assets/6eef6cf5-ae10-4942-b504-b42d623e46dd)
 
 
 ## Installation
