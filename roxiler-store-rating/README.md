@@ -6,6 +6,12 @@ A full-featured web application for managing store ratings with role-based acces
 
 This application allows users to submit ratings for stores registered on the platform. It features a single login system with different functionalities available based on user roles (Admin, Normal User, Store Owner).
 
+## Default Admin Credentials
+
+- **Email**: admin@example.com
+- **Password**: Admin@123
+
+
 ## Features
 
 - **User Authentication**
@@ -118,11 +124,6 @@ This application allows users to submit ratings for stores registered on the pla
 - **Data Storage**: localStorage
 - **Routing**: React Router
 - **Icons**: React Icons
-
-## Default Admin Credentials
-
-- **Email**: admin@example.com
-- **Password**: Admin@123
 
 ## Application Structure
 
